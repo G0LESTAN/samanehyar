@@ -1,5 +1,5 @@
-![لوگو دانشگاه فرهنگیان](https://cfu.ac.ir/pwa/img/logo.webp)
-![خوشنویس نام دانشگاه فرهنگیان](https://cfu.ac.ir/pwa/img/logo-txt-fa.webp)
+![لوگو دانشگاه فرهنگیان](./logo.webp)
+![خوشنویس نام دانشگاه فرهنگیان](./logo-txt-fa.webp)
 
 # سامانه‌یار اداری فرهنگیان
 
@@ -110,3 +110,4 @@ Copyright (c) 2025 Farhangian University
 © All rights of this site belong to Farhangian University.
 
 © جميع حقوق هذا الموقع تنتمي إلى جامعة فرهنکیان.
+
