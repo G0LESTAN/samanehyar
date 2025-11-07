@@ -98,11 +98,6 @@ Copyright (c) 2025 Farhangian University
 * نمابر: ۸۷۷۵۱۰۰۰ - ۰۲۱
 * کدپستی: ۱۹۹۸۹۶۳۳۴۱
 
-**لوگو:**
-
-* [https://cfu.ac.ir/pwa/img/logo.webp](https://cfu.ac.ir/pwa/img/logo.webp)
-* Typography text: [https://cfu.ac.ir/pwa/img/logo-txt-fa.webp](https://cfu.ac.ir/pwa/img/logo-txt-fa.webp)
-
 ---
 
 © کلیه حقوق این سایت متعلق به دانشگاه فرهنگیان می‌باشد.
@@ -110,4 +105,5 @@ Copyright (c) 2025 Farhangian University
 © All rights of this site belong to Farhangian University.
 
 © جميع حقوق هذا الموقع تنتمي إلى جامعة فرهنکیان.
+
 
